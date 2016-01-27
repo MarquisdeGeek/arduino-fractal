@@ -1,0 +1,8 @@
+/*
+
+* Use a buffer and pushColors to render quicker
+* Improve the compresion of the stored mandelbrot (RLE?)
+* Read data from PGM in DWORD chunks
+
+*/
+
